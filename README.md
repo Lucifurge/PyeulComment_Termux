@@ -1,7 +1,7 @@
 # PyeulComment_Termux
 
 
-git clone 
+git clone https://github.com/Lucifurge/PyeulComment_Termux.git
 
 
 cd PyeulComment_Termux
